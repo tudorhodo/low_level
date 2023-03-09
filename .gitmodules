@@ -1,0 +1,6 @@
+[submodule "stdio_library"]
+	path = stdio_library
+	url = git@github.com:tudorhodo/stdio_library.git
+[submodule "executables_loader"]
+	path = executables_loader
+	url = git@github.com:tudorhodo/executables_loader.git
